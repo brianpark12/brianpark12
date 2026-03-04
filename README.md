@@ -1,7 +1,7 @@
 ## Hi👋! I am Brian from Walton High School.
   I enjoy building coding projects on github.
 
-## Development of interest in Coding
+## Development of my interest in Coding
 My passion for coding grew naturally from my roots in mathematics. I've always loved the logic of solving complex problems on my school’s Math Team, and I found the same spark in my AP Computer Science Principles class. To me, writing code feels like constructing functions; it is the same logical puzzle-solving I’ve always enjoyed. Yet, with the additional thrill of building tangible projects rather than just finding a numerical answer, coding fascinated me even more than solving simple math problems.
 
 <!--
