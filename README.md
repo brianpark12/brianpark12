@@ -4,6 +4,9 @@
 ## Development of my interest in Coding
 My passion for coding grew naturally from my roots in mathematics. I've always loved the logic of solving complex problems on my school’s Math Team, and I found the same spark in my AP Computer Science Principles class. To me, writing code feels like constructing functions; it is the same logical puzzle-solving I’ve always enjoyed. Yet, with the additional thrill of building tangible projects rather than just finding a numerical answer, coding fascinated me even more than solving simple math problems.
 
+## Contact
+Gmail: brianytspark@gmail.com
+
 <!--
 **brianpark12/brianpark12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
